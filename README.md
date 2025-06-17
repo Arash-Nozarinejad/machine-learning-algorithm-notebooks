@@ -9,6 +9,7 @@ A growing set of Jupyter notebooks that implement and explain machine-learning a
 ## Notebooks
 | Status | Notebook | Notes |
 | ------ | -------- | ----- |
+| ✅ | Linear Regression | Complete |
 | ✅ | Logistic Regression | Complete |
 | 🔧 | Decision Trees | In progress |
 | ⏳ | Linear Regression | Planned |
